@@ -11,7 +11,7 @@ I have hands-on experience with tools like Cadence Virtuoso, Xilinx Vivado (FPGA
 
 My coursework includes subjects like Digital Electronics, VLSI, Low Power IC Design, Static Timing Analysis, Analog IC Design, and VLSI Testing(DFT), which have built a strong foundation in both front-end and back-end aspects of chip design.
 
-I sincerely request you to consider my application. I look forward to the opportunity of contributing to the AMD team.
+I sincerely request you to consider my application. I look forward to the opportunity of contributing to the Synopsys team.
 
 Warm Regards,
 Sarveshware S
